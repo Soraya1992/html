@@ -1,0 +1,59 @@
+div
+{
+  float: left;
+}
+
+.green
+{
+height : 2em;
+width: 75%;
+background: green;
+}
+.blue
+{
+  height: 2em;
+  width: 25%;
+  background: blue;
+}
+.red
+{
+  height: 4em;
+  width: 35%;
+  background: red;
+}
+.orange
+{
+  height: 2.5em;
+  width: 25%;
+  background: orange;
+}
+.gray
+{
+  height: 2.5em;
+  width: 42%;
+  background: gray;
+}
+.orange2
+{
+  height: 2.5em;
+  width: 15%;
+  background: orange;
+}
+.green2
+{
+  height: 2.5em;
+  width: 15%;
+  background: green;
+}
+.yellow
+{
+  height: 2.5em;
+  width: 15%;
+  background: yellow;
+}
+.blue2
+{
+  height: 5em;
+  width: 100%;
+  background: blue;
+}
